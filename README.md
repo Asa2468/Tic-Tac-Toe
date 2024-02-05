@@ -19,3 +19,8 @@ This React Tic-Tac-Toe Project transforms the traditional game into a web-based 
 </details>
 
 <br>
+
+## Technology Used
+#### This project  is built with [React JS](https://reactjs.org/).
+
+<br>

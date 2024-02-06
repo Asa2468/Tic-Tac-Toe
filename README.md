@@ -24,3 +24,27 @@ This React Tic-Tac-Toe Project transforms the traditional game into a web-based 
 #### This project  is built with [React JS](https://reactjs.org/).
 
 <br>
+
+## Getting Started
+Below are the instructions to set-up the project and get a local clone version up and running.
+<ul>
+<li>
+ 
+### Prerequisites
+<ul>
+
+<li>
+  
+  #### Install Node JS
+Refer to <strong>[Node JS](https://nodejs.org/en/)</strong> for installation.
+</li>
+<li>
+  
+#### Install create-react-app
+Install the create-react-app npm package globally in order to easily run the project and to build the source files. Use the below command to install it.
+```sh
+   npm install -g create-react-app
+   ```
+</li>
+</ul>
+</li>

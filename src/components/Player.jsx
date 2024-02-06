@@ -1,5 +1,5 @@
 import { useState } from 'react';
-
+// component to manage player state and name changes
 export default function Player({
   initialName,
   symbol,

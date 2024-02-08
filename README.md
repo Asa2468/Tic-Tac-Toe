@@ -1,4 +1,4 @@
-## See Live Demo : <strong><em>[Tic-Tac-Toe](https://asa2468.github.io/Tic-Tac-Toe/)</em></strong>
+## Checkout the Website : <strong><em>[Tic-Tac-Toe](https://asa2468.github.io/Tic-Tac-Toe/)</em></strong>
 <br>
 
 ##
@@ -48,3 +48,36 @@ Install the create-react-app npm package globally in order to easily run the pro
 </li>
 </ul>
 </li>
+<li>
+  
+### Cloning & Running the Application in Local
+
+Clone the project into local and install all the npm packages. In the project folder terminal, use the following commands to install all npm packages.
+<ul>
+<li>
+  
+  #### Clone this repository
+   ```sh
+   git clone https://github.com/Asa2467/Tic-Tac-Toe.git
+
+   ```
+</li>
+<li>
+  
+  #### Install all the NPM packages
+   ```sh
+   npm install
+   ```
+</li>
+<li>
+  
+  #### Run the Application in the Local Server
+   ```js
+   npm run dev
+   ```
+</li>
+</ul>
+</li>
+</ul>
+
+<br>

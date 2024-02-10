@@ -81,3 +81,8 @@ Clone the project into local and install all the npm packages. In the project fo
 </ul>
 
 <br>
+
+## Features
+- **Game Board:**
+  Displays a 3x3 grid as the game board.
+  Each cell represents a square where players can place their X or O.

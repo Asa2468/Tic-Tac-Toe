@@ -201,6 +201,7 @@ ol {
   font-family: 'Caprasimo', cursive;
 }
 
+/* Style for 'X' symbol */
 #game-board button.X {
   background: linear-gradient(#dd9cb1, #9cb2de);
   color:  #ffffe6;

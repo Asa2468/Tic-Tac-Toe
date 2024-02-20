@@ -1,4 +1,4 @@
-## Checkout the Website : <strong><em>[Tic-Tac-Toe](https://asa2468.github.io/Tic-Tac-Toe/)</em></strong>
+## See Live Demo : <strong><em>[Tic-Tac-Toe](https://asa2468.github.io/Tic-Tac-Toe/)</em></strong>
 <br>
 
 ##
@@ -86,3 +86,17 @@ Clone the project into local and install all the npm packages. In the project fo
 - **Game Board:**
   Displays a 3x3 grid as the game board.
   Each cell represents a square where players can place their X or O.
+
+- **Responsive Design:**
+  Game is playable and looks good on different devices through mouse click or touch(desktop, tablet, and mobile).
+
+- **Player Names:**
+  Names of players can be customized.
+    
+- **Player Turns:**
+  Alternate turns between two players (X and O).
+  Displays the current player's turn.
+
+- **Game State:**
+  Tracks the state of the game (win, lose, draw, or in progress).
+  Displays a message when the game is over.

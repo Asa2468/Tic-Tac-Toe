@@ -100,3 +100,11 @@ Clone the project into local and install all the npm packages. In the project fo
 - **Game State:**
   Tracks the state of the game (win, lose, draw, or in progress).
   Displays a message when the game is over.
+
+- **User Interface:**
+  User-friendly interface with a clean and appealing design.
+
+- **Reset Button:**
+  Includes a button to reset the game and start a new round.
+
+<br>

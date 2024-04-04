@@ -108,3 +108,15 @@ Clone the project into local and install all the npm packages. In the project fo
   Includes a button to reset the game and start a new round.
 
 <br>
+
+## Contribution
+Contributions make the open source community such an amazing place to learn, inspire, and create. Any contributions are greatly appreciated. If you have a suggestion, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
+1. Fork the Project
+2. Create your Feature Branch `git checkout -b feature/your-feature`
+3. Commit your Changes `git commit -m 'Add some Feature'`
+4. Push to the Branch `git push origin feature/your-feature`
+5. Open a Pull Request
+
+<br>
+
+### 🚀 Dive in, have fun coding, and may the best player win! 🎮
